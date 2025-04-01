@@ -149,7 +149,7 @@ Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7
 ```
 
 <p align="center">
-  <img src="img/img1.pngpng" alt="Project Screenshot" />
+  <img src="img/img1.png" alt="Project Screenshot" />
 </p>
 
 ## 7. Conclusion
